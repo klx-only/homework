@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    cout << "114514 1919810" << endl;
+    cout << "114514 1919810 klx" << endl;
     int n;
     cin >> n;
     for (int i = 0; i < n; i++)
